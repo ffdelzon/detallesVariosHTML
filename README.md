@@ -33,7 +33,7 @@ Abrir un correo electronico para enviar e-mail.
 	<meta name="robots" content="index,follow"> 
 	<meta name="author" content="delzonff"> 
 	<meta name="owner" content="delzonff">
-  <meta name="keywords" content="etiquetas, ayuda, ...">
+  	<meta name="keywords" content="etiquetas, ayuda, ...">
 </html>
 ```
 ## Favicon
